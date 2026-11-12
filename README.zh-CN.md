@@ -5,6 +5,10 @@
 
 ---
 
+[English](./README.md) | 简体中文
+
+---
+
 <p align="center">
 🎉 设计模式的极简解释！🎉
 </p>

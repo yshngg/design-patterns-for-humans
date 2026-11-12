@@ -5,6 +5,10 @@
 
 ***
 
+English | [简体中文](./README.zh-CN.md)
+
+***
+
 <p align="center">
 🎉 Ultra-simplified explanation to design patterns! 🎉
 </p>
